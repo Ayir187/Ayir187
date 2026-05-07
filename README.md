@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Ayir 👋
 
-<!--
-**Ayir187/Ayir187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things that actually solve problems - from emergency blood donor 
+matching systems to IoT air quality monitors. AIML-CSE student by day, 
+solo dev always.
 
-Here are some ideas to get you started:
+## 🔨 Currently Building
+- **LocalAid** - a city-wise emergency contacts finder for India with community-driven data (HTML · CSS · JS · PHP · MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects Built
+- **RaktSetu** - real-time blood donor matching & emergency alert system (MySQL · PHP · HTML/CSS)
+- **AQI Arena** - IoT smart air quality monitor with live cloud sync (Arduino · ESP8266 · Firebase)
+
+## 🛠️ Skills
+React · Vite · JavaScript · MySQL · PHP · Figma · Python
+
+## 📫 Reach me
+ayir17apr@gmail.com
